@@ -23,7 +23,7 @@
       </ul>
     </section>
     <section id="canli-mac-linki">
-      <h2>⚡ Hemen İzleyin</h2>
+      <h2>⚡ Hemen İzleyin.</h2>
       <a href="https://canlimacinizle.blogspot.com/" target="_blank">
         <button>⚽️ GOLVAR TV'DEN İZLE</button>
       </a>
